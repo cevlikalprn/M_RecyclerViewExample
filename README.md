@@ -1,4 +1,4 @@
-# M_RecyclerViewExample
+# RecyclerViewExample
 
 Recyclerview'ın detaylarını paylaştığım blog yazısı için örnek bir proje.
 Yazı için:
